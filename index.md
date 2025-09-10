@@ -1,8 +1,8 @@
 ---
 title: Welcome
-tags:
-- tag1
-- tag2
+#tags:
+#- tag1
+#- tag2
 ---
 <center>
 <font size= "6">Michael Cockerham Datasheet</font><br>
